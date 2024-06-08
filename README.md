@@ -1,7 +1,11 @@
-Hi! I'm a very very junior software developper (0 computer science classes).
+Hi! I'm a very very very junior software developer with no formal computer science classes.
 
-I've worked in many languages such as C,C#,C++,Python,Lua
+I've worked in many languages such as C, C# (Unity), C++, Python, and Lua (Roblox).
 
-Currently working on my own interpreted programming language in C++.
+I'm interested in video game development and am currently working on my own interpreted programming language in C++.
+
+
+
+
 
 
