@@ -1,6 +1,6 @@
 Hi! I am a self-taught programmer with no formal computer science classes.
 
-I've done Lua (Roblox), C# (Unity, .NET MAUI, .NET Backend), C, C++.
+I've done Lua (Roblox), Python, C# (Unity, .NET MAUI, .NET Backend), C, and C++.
 
 Currently learning MASM (Microsoft Macro Assembler)
 
