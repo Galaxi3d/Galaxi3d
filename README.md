@@ -1,8 +1,10 @@
-Hi! I'm a very very very junior software developer with no formal computer science classes.
+Hi! I am a self-taught programmer with no formal computer science classes.
 
-I've worked in many languages such as C, C# , C++, Python, and Lua (Roblox).
+I've done Lua (Roblox), C# (Unity, .NET MAUI, .NET Backend), C, C++.
 
-I'm interested in video game development and am currently working on my own interpreted programming language in C++.
+Currently learning MASM (Microsoft Macro Assembler)
+
+I'm interested in video game development and am currently working on my programming language in C++
 
 
 
